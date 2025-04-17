@@ -1,6 +1,7 @@
 # Preparez des donnees pour un organisme de sante publique
 
 Formation Expert en Data Science - OpenClassRoom - Mars 2025
+
 Objectifs pédagogiques
 - Déterminer les objectifs du nettoyage des données et de la démarche de mise en œuvre
 - Effectuer des analyses statistiques univariées et multivariées
