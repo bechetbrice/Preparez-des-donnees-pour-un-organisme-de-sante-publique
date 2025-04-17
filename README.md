@@ -1,4 +1,4 @@
-# Preparez des donnees pour un organisme de sante publique
+# Préparez des données pour un organisme de santé publique
 
 Formation Expert en Data Science - OpenClassRoom - Mars 2025
 
